@@ -3,7 +3,7 @@ c = 23.43
 print (c)
 print(type(c))
 #boolean
-b = True
+b = False
 print(b)
 #integer
 f = 21

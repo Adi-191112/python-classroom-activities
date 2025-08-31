@@ -1,0 +1,6 @@
+r = "767"
+s = (str(r))
+print(type(s))
+#integer(-3)
+r = -3
+print(float(r))
