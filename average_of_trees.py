@@ -14,4 +14,4 @@ print("average of it is" ,average)
 
 
 
-      
+    
