@@ -7,3 +7,6 @@ for i in range(f):
         number=number+1
     print()
    
+
+
+
