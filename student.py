@@ -1,0 +1,1 @@
+student = {'id1' :{'name': 'sam', 'grade' :5}, }
