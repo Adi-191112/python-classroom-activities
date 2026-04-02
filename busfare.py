@@ -11,7 +11,7 @@ class vehicle:
 class bus (vehicle):
     def fare(self):
         base = super().fare()
-        maintanance = base*0.1
+        maintanance = base*2000000
         return base + maintanance
     
 object = bus(50)

@@ -14,7 +14,7 @@ jokes = [
 
 "Why did the computer go to the doctor? Because it had a virus!",
 
-"Why do travelers always feel warm? Because of all their hot spots!"
+"Why do travelers always feel warm? Because of all their hot spots!"]
 
 def normalize_input(text):
     return re.sub(r"\s+"," ", text.strip().lower())
